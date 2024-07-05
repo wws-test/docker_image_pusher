@@ -1,1 +1,1 @@
-infiniflow/ragflow:dev
+ragflow:dev
