@@ -1,2 +1,2 @@
 infiniflow/ragflow:dev
-mayflygo/mayfly-go
+mayflygo/mayfly-go:v1.4.2
