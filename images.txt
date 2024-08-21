@@ -2,3 +2,4 @@ infiniflow/ragflow:dev
 mayflygo/mayfly-go:v1.4.2
 ghcr.io/windmill-labs/windmill:main
 postgres:14
+dosel/zalenium
