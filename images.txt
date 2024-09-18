@@ -4,3 +4,4 @@ ghcr.io/windmill-labs/windmill:main
 postgres:14
 dosel/zalenium
 maxiaolin3366/sqladvisor:latest
+playwright/chromium:playwright-1.40.0
