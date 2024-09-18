@@ -5,3 +5,4 @@ postgres:14
 dosel/zalenium
 maxiaolin3366/sqladvisor:latest
 playwright/chromium:playwright-1.40.0
+kicbase/stable:v0.0.45
