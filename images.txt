@@ -6,3 +6,4 @@ dosel/zalenium
 maxiaolin3366/sqladvisor:latest
 playwright/chromium:playwright-1.40.0
 kicbase/stable:v0.0.45
+mcr.microsoft.com/playwright/python:v1.40.0-jammy
